@@ -1,5 +1,5 @@
 - 👋 Hola, Soy Alfonso López
-- 👀 Estoy aprendiendo C++, Html, Css.
+- 👀 Estoy aprendiendo Java, Html, Css.
 - 🌱 Soy estudiante de la carrera ISC
 
 <!---
